@@ -4,6 +4,7 @@
 Fun4Linters
 
 > Description the project.
+- Practicing how to install linters and dependancies for development
 
 
 ## Built With
