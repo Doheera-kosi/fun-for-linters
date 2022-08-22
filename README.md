@@ -1,9 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
-Hello Microverse
+Fun4Linters
 
 > Description the project.
+- Practicing how to install linters and dependancies for development
 
 
 ## Built With
